@@ -2,3 +2,6 @@ footer > ul {
      display: flex; 
     justify-content: flex-end;
 }
+footer {
+    background-color:rgb(136, 125, 22) ;
+}
